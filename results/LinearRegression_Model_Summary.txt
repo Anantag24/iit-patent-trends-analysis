@@ -1,0 +1,5 @@
+R^2 Score: 0.676
+Coefficients:
+Avg_Patents_Per_Year: 0.226
+Recent_Year_Filing_2023: -0.014
+PCT_Filings_2023: -0.079
